@@ -30,5 +30,5 @@ def get_example(id):
             },
             'payload': ["Test", "payload"]
         }
-        result.id = id
+        result['data'] = id
         return jsonify(result)
