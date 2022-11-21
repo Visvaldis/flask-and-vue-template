@@ -1,5 +1,10 @@
 # flask-and-vue-template
 
+#### TOD
+```
+from flask_api import status
+return status.HTTP_200_OK
+```
 ---
 
 ## Backend Flask
