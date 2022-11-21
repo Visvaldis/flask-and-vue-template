@@ -1,6 +1,6 @@
 # flask-and-vue-template
 
-#### TOD
+#### TODO
 ```
 from flask_api import status
 return status.HTTP_200_OK
